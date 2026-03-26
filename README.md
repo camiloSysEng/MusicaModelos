@@ -36,6 +36,9 @@ En pocas palabras: cada corrida cuenta una version distinta de la misma historia
 - Cada asistente toca solo un instrumento por evento.
 - Sin semilla fija: los resultados cambian cada vez.
 
+Diagrama de Clases 
+<img width="915" height="1232" alt="DiagramaClasesMusica" src="https://github.com/user-attachments/assets/101d577b-f47d-43ff-9a8e-317ed259969b" />
+
 ## Diagrama UML (PlantUML)
 
 ```plantuml
