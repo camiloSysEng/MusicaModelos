@@ -1,4 +1,7 @@
 # Musica - Simulacion de evento musical
+#Equipo de trabajp
+Juan Camilo Mora Barragan - 20242020168  
+Gabriel Alejandro Burgos Villalba - 20242020188
 
 Este proyecto simula una fiesta donde un grupo de amigos es contratado para tocar musica.
 La idea principal es que todo cambie en cada ejecucion: el tipo de evento, cuantas personas
