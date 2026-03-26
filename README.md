@@ -1,5 +1,5 @@
 # Musica - Simulacion de evento musical
-#Equipo de trabajp
+# Equipo de trabajo
 Juan Camilo Mora Barragan - 20242020168  
 Gabriel Alejandro Burgos Villalba - 20242020188
 
